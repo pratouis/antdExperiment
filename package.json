@@ -1,0 +1,34 @@
+{
+  "name": "antdexperiment",
+  "version": "1.0.0",
+  "description": "experimenting antd+node",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratouis/antdExperiment.git"
+  },
+  "keywords": [
+    "antd",
+    "node"
+  ],
+  "author": "pratouis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratouis/antdExperiment/issues"
+  },
+  "homepage": "https://github.com/pratouis/antdExperiment#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.7.0"
+  }
+}
